@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @marcovazquez56
 - 👀 I’m interested in the tech world mainly Python programming, Databricks and as a hobby cypto and NFT's
-- 🌱 I’m currently diving deeper into Python programming and Data Engineering.
+- 🌱 I’m currently diving deeper into Python programming and Data Engineering with Databricks.
 - 📫 You can find me on almost every social platform as @marcovazquez56
 
 <!---
